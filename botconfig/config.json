@@ -1,5 +1,5 @@
 {
-  "token": "OTU5NzEwOTU5MjQ3Njk5OTc4.GdZBvT.P2aJmdBTq2tbuNuQL991PiGzr5m0bMlE2pzY9M",
+  "token": "",
   "mongo": "mongodb+srv://chiraitori:chiraitori@cluster0.9ha2n.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
   "prefix": "k!",
   "clientsettings": {
